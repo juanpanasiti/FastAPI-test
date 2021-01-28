@@ -1,0 +1,5 @@
+# carpetas
+venv/*
+venv3.8/*
+__pycache__/*
+.idea/*
